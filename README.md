@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack, Python, FastAPI.
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me:  
-federico.hammond8@gmail.com
+
 
 <!---
 fdhammond/fdhammond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
