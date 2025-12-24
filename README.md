@@ -2,7 +2,6 @@
 - 👀 I’m interested in Front End, Back End, Web Dev.
 - 🌱 I’m currently learning MERN Stack, Python, FastAPI.
 - 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me:  
 
 
 <!---
