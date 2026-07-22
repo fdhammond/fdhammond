@@ -10,7 +10,7 @@
 
   <!-- Typing headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=60&lines=Building+modern+web+apps+end+to+end;MERN+%7C+Next.js+%7C+Python+%7C+;Open+to+collaborations+%26+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=45&duration=2800&lines=Building+modern+web+apps+end+to+end;REACTJS+%7C+NODE+%7C+MONGODB+%7C+NEXTJS+%7C+PYTHON;Open+to+collaborations+%26+opportunities" alt="Typing SVG" />
   </a>
 
   <p>
@@ -122,19 +122,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 GitHub stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fdhammond&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Federico's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdhammond&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fdhammond&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 
